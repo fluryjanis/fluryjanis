@@ -6,7 +6,7 @@ I'm a developer building lightweight, local-first, and privacy-focused software 
 
 ---
 
-###  Projects & Work
+###  Projects
 
 * 👨‍🍳 **[Content Chef](https://frog1230.itch.io/content-chef)** — A privacy-first local browser extension to filter and curate YouTube video recommendations.
 * 📅 **[Remind Me](https://frog1230.itch.io/remind-me)** — A keyboard-driven 24-hour desktop planner and calendar designed for fast scheduling.
@@ -15,7 +15,7 @@ I'm a developer building lightweight, local-first, and privacy-focused software 
 
 ---
 
-###  Connect with Me
+###  social Media
 
 * **itch.io:** [frog1230.itch.io](https://frog1230.itch.io/)
 * **Firefox Add-ons:** [Frog1230 Profile](https://addons.mozilla.org/en-US/firefox/user/20036258/)
