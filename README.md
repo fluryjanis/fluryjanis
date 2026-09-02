@@ -8,7 +8,7 @@ I'm a developer building lightweight, local-first, and privacy-focused software 
 
 ###  Projects
 
-* 👨‍🍳 **[Content Chef](https://frog1230.itch.io/content-chef)** — A privacy-first local browser extension to filter and curate YouTube video recommendations.
+* 🕑 **[History-of-Humanity]([https://frog1230.itch.io/content-chef](https://github.com/fluryjanis/History-of-Humanity))** — An archive of ordinary human life, preserved year by year.
 * 📅 **[Remind Me](https://frog1230.itch.io/remind-me)** — A keyboard-driven 24-hour desktop planner and calendar designed for fast scheduling.
 * ⏱️ **[Your Pomodoro](https://frog1230.itch.io/your-pomodoro)** — A standalone, modular Pomodoro timer utility derived from the Remind Me ecosystem.
 * 🛡️ **[MindShield](https://frog1230.itch.io/mind-shield)** — A local inference browser extension evaluating user reliance on AI tools.
